@@ -1,0 +1,53 @@
+{
+  "@@last_modified": "2020-03-01T13:37:11.201727",
+  "appTitle": "Лидеры России",
+  "@appTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerAboutClub": "О клубе",
+  "@drawerAboutClub": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerResults": "Результаты 2019",
+  "@drawerResults": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerProjects": "Проекты 2020",
+  "@drawerProjects": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerEvents": "Мероприятия",
+  "@drawerEvents": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerNews": "Новости",
+  "@drawerNews": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerClubMembers": "Члены клуба",
+  "@drawerClubMembers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerPhotos": "Фото / Видео",
+  "@drawerPhotos": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerMyProfile": "Мой профиль",
+  "@drawerMyProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerContacts": "Контакты",
+  "@drawerContacts": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

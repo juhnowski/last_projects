@@ -1,0 +1,13 @@
+{
+  "@@last_modified": "2020-03-02T12:05:46.911718",
+  "appTitle": "Russian Leaders",
+  "@appTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerAboutClub": "About club",
+  "@drawerAboutClub": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

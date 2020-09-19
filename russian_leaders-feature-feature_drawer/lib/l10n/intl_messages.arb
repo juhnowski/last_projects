@@ -1,0 +1,53 @@
+{
+  "@@last_modified": "2020-03-02T12:22:35.035959",
+  "appTitle": "Russian Leaders",
+  "@appTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerAboutClub": "About club",
+  "@drawerAboutClub": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerResults": "Results 2019",
+  "@drawerResults": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerProjects": "Projects 2020",
+  "@drawerProjects": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerEvents": "Events",
+  "@drawerEvents": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerNews": "News",
+  "@drawerNews": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerClubMembers": "Club members",
+  "@drawerClubMembers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerPhotos": "Photo / Video",
+  "@drawerPhotos": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerMyProfile": "My Profile",
+  "@drawerMyProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "drawerContacts": "Contacts",
+  "@drawerContacts": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

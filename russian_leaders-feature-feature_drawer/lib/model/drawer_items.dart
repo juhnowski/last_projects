@@ -1,0 +1,11 @@
+enum DrawerItem {
+  ABOUT_CLUB,
+  RESULTS,
+  PROJECTS,
+  EVENTS,
+  NEWS,
+  CLUB_MEMBERS,
+  PHOTO,
+  MY_PROFILE,
+  CONTACTS
+}
